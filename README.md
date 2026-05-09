@@ -1,5 +1,7 @@
 # Kambaz Backend
 
+[![CI](https://github.com/HarishNandhaKumar/kambaz-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/HarishNandhaKumar/kambaz-backend/actions/workflows/ci.yml)
+
 Express + Mongoose LMS API serving courses, modules, assignments, quizzes, and quiz attempts. Session-based auth, server-side quiz grading, layered authorization with role + ownership middleware.
 
 > Companion frontend: [`kambaz-frontend`](https://github.com/HarishNandhaKumar/kambaz-next-js) (Next.js 15 + TypeScript + Redux Toolkit).
