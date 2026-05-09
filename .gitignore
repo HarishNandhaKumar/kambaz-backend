@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# misc
+*.tsbuildinfo
